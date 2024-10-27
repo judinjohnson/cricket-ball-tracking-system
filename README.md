@@ -41,7 +41,7 @@ A deep learning-powered system that tracks the ball’s movement with unparallel
 
 ### Screenshots
 
-- #### Model Training
+#### Model Training
 <img src="https://github.com/user-attachments/assets/a045b9c0-327a-4fb4-9bf8-f717a5de7bc7" alt="Model Training" width="500"/>
 
 This screenshot shows the training process of the YOLOv8 model.
