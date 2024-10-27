@@ -70,4 +70,4 @@ This diagram explains the complete workflow, from video input to ball detection 
 **Team Contributions**
 - Naveen Wilson: Led the project, handled dataset preparation, model training, and deployment
 - Judin Johnson: Contributed to video preprocessing and implementation of the detection pipeline
-- Hameem Abdul Nassir: Assisted in evaluation, testing, and preparing results for the IEEE paper
+- Hameem Abdul Nassir: Assisted in evaluation, testing, and preparing results
