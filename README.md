@@ -21,7 +21,7 @@ A deep learning-powered system that tracks the ball’s movement with unparallel
 **Technologies/Components Used**
 **For Software:**
 - **Languages Used**: Python, HTML, JavaScript, CSS
-- **Frameworks Used**: TensorFlow, PyTorch
+- **Frameworks Used**: TensorFlow, ,CNN,PyTorch
 - **Libraries Used**: OpenCV, YOLOv8, Scikit-learn
 - **Tools Used**: Roboflow for dataset preparation, Jupyter Notebooks for model training
 
